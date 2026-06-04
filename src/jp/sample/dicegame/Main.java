@@ -9,6 +9,7 @@ public class Main {
       DiceGame game = new DiceGame(sc);
       game.run();
     }
+    System.out.println("git練習");
   }
 }
 
