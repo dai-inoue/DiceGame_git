@@ -10,9 +10,7 @@ public class CheatDie extends Die {
     super(random);
   }
 
-	// 練習202600601
-	//案件ブランチ6の練習大変だ
-  // サイコロ振６が返る用のメソッド
+  // 練習202600604gitの扱い方を勉強してるぞ
   @Override
   public int roll() {
     return 6;
