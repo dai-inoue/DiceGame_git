@@ -10,7 +10,7 @@ public class CheatDie extends Die {
     super(random);
   }
 
-  // ブランチ作成20260606
+  // ブランチ作成20260608コミットマージ練習再
   @Override
   public int roll() {
     return 6;
