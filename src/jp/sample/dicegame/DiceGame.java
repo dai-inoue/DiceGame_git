@@ -19,7 +19,7 @@ public class DiceGame {
     this.scanner = scanner;
   }
 
-  // 20260606 git練習
+  // ブランチ作成20260615コミットマージ練習再
   public void run() {// ゲーム全体の流れ
     System.out.println("ゲーム開始");
     int totalSum = 0; // 合計を溜める変数を用意
