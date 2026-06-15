@@ -11,8 +11,7 @@ import java.util.Random;
 public class Coin implements Rollable {
   private final Random random;// フィールド変数
 
-  // gitブランチ練習20260609ブランチ作成練習
-  // 早く扱えるよう何りたいな
+  // ブランチ作成20260615コミットマージ練習再
 
   // コンストラクタ Mainクラスから共有され、乱数を作成
   public Coin(Random random) {
