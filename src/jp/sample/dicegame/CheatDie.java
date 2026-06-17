@@ -3,14 +3,15 @@ package jp.sample.dicegame;
 import java.util.Random;
 
 /*
- * 役割:統計機能のテストに使用するモック用のクラス
+ * 役割:統計機のテストに使用するモック用のクラス
  */
 public class CheatDie extends Die {
   public CheatDie(Random random) {
     super(random);
   }
 
-  // ブランチ作成20260615コミットマージ練習再
+  // ブランチ作成20260617コミットマージ練習
+  // むかつく速くできるようにならないと
   @Override
   public int roll() {
     return 6;
