@@ -10,8 +10,8 @@ public class CheatDie extends Die {
     super(random);
   }
 
-  // ブランチ作成202600701コミットマージ練習
-  // 梅雨の時期が嫌い
+  // ブランチ作成202600709コミットマージ練習
+  // 部屋が暑くて死にそう
   @Override
   public int roll() {
     return 6;
